@@ -1,7 +1,10 @@
 About Me
+
 🔭 Vietnam Japan University - Vietnam National University, Hanoi
 
+
 🌱 Skills
+
 💻 Programming Languages:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" valign="middle"/> JavaScript
@@ -13,6 +16,7 @@ About Me
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQL" width="30" height="30" valign="middle"/> SQL
 
 🛠️ Technologies & Frameworks:
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="30" height="30" valign="middle"/> ReactJS
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="30" height="30" valign="middle"/> Bootstrap
