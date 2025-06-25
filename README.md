@@ -1,4 +1,4 @@
-# About Me
+# 💫 About Me
 🔭 **VietNam Japan University - Vietnam National University, Hanoi**
 
 ## 🌱 Skills
